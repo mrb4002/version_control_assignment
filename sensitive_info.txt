@@ -1,0 +1,9 @@
+#Fake sensitive information
+
+Credit card#: 1234 5678 9012 3456
+EXP Date: 01/25
+Security Code: 911
+
+SSN: 555-55-5555
+
+Routing #: 239824981 
